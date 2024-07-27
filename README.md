@@ -14,10 +14,10 @@ Success in **2048** demands strategic planning and efficient tile management to 
 
 ## Technologies Used
 
-This game was developed using HTML, CSS/SCSS, and JavaScript:
+This game was developed using HTML, SCSS, and JavaScript:
 
 1. **HTML** provides the structure of the game interface.
-2. **CSS/SCSS** is utilized for styling the game elements, including cells, to create a visually appealing design and an intuitive user interface.
+2. **SCSS** is utilized for styling the game elements, including cells, to create a visually appealing design and an intuitive user interface.
 3. **JavaScript** is used for implementing game mechanics, logic, and user interaction. JavaScript controls tile movements, merges, score calculation, and manages game state, including victory condition and game over scenario.
 
 This combination of technologies ensures an engaging and interactive gaming experience for the player.
@@ -57,7 +57,7 @@ npm install
 ```
 
 5. **Start the Project**:
-   Start the project locally:
+   Start the project locally on your device:
 
 ```
 npm start
